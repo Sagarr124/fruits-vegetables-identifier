@@ -1,4 +1,4 @@
-Fruits & Vegetables Classification and Color Identifier
+# Fruits & Vegetables Classification and Color Identifier
 
 1. Open CMD or Terminal.
 2. Go to project folder.
